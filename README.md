@@ -29,7 +29,7 @@ This project involved the end-to-end setup and configuration of a new Active Dir
 * Configured DNS forwarders to enable internet name resolution.
 * Transferred the Schema Master FSMO role to the secondary DC.
 
-💡 https://github.com/ziadooz/Windows-Server-AD-Project/blob/483876195e245c22bc72c620d0ff9c88f383daa1/documentation/1.PNG?raw=true
+💡 <img width="1119" height="630" alt="1" src="https://github.com/user-attachments/assets/64bc8c0b-2812-4818-a396-4687209e517a" />
 
 ---
 
@@ -39,7 +39,8 @@ This project involved the end-to-end setup and configuration of a new Active Dir
 * Established a DHCP Failover relationship (Hot Standby) between the two DCs for redundancy.
 * Implemented a Network Load Balancing (NLB) cluster for the web servers to provide a single, highly available web service at **[http://www.corpnet.local](http://www.corpnet.local)**.
 
-💡  screenshot
+💡  <img width="1369" height="705" alt="2" src="https://github.com/user-attachments/assets/0478d7e9-b9f7-4c09-a46d-f2038916d446" />
+
 
 ---
 
@@ -54,7 +55,8 @@ This project involved the end-to-end setup and configuration of a new Active Dir
 * Configured **Folder Redirection** for Developers’ *Documents*.
 * Used **Group Policy Preferences** to automatically map a network drive.
 
-💡 screenshot
+💡 <img width="1366" height="699" alt="3" src="https://github.com/user-attachments/assets/fd19c9ab-029b-4d6a-b3b1-cc77cb9a3db4" />
+
 
 ---
 
@@ -64,7 +66,8 @@ This project involved the end-to-end setup and configuration of a new Active Dir
 * Built a **RAID 5** software array on **HQ-DC-02** using three virtual disks.
 * Configured an **iSCSI Target** on **HQ-DC-02**, provisioning virtual disks from the RAID 5 array for the web servers.
 
-💡  screenshot
+💡  <img width="1354" height="699" alt="4" src="https://github.com/user-attachments/assets/531acbc0-f679-4493-b047-6a2f5f932c96" />
+
 
 ---
 
