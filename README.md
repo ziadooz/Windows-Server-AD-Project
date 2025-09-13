@@ -29,7 +29,7 @@ This project involved the end-to-end setup and configuration of a new Active Dir
 * Configured DNS forwarders to enable internet name resolution.
 * Transferred the Schema Master FSMO role to the secondary DC.
 
-💡  screenshot
+💡  https://github.com/ziadooz/Windows-Server-AD-Project/blob/483876195e245c22bc72c620d0ff9c88f383daa1/documentation/1.PNG
 
 ---
 
